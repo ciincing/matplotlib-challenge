@@ -1,5 +1,7 @@
 # Observations & Inferences
-
+1. The correlation between mouse weight and the average tumor volume is 0.84 which is a strong positive correlation. 
+2. Capomulin and Ramicane treatments are better at reducing tumor sizes in mice, according to the graph called "# of Timepoints vs Drug Regiment". 
+3. When the Capomulin regimen was used on Mouse I509, it greatly reduced the tumor size from its peak of tumor size 48 mm^3 to 41mm^3 in the span of 40 days. 
 
 # matplotlib-challenge README
 I had just joined Pymaceuticals, Inc., a new pharmaceutical company specializing in anti-cancer medications. The company had recently started screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
